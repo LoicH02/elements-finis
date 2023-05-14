@@ -1,0 +1,4 @@
+/mnt/c/Users/Hc/Downloads/Project/Project/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Hc/Downloads/Project/Project/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Hc/Downloads/Project/Project/build/CMakeFiles/run.dir
+/mnt/c/Users/Hc/Downloads/Project/Project/build/CMakeFiles/myFem.dir
